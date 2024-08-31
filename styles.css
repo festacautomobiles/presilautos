@@ -4,7 +4,7 @@ p {
 }
 
 body {
-    background: url(./new/Gallery_20240828_084214.png);
+    background: url(./Gallery_20240828_084214.png);
     background-repeat: no-repeat;
     height: 80vh;
     width: 100%;
@@ -49,9 +49,9 @@ nav ul li {
 }
 
 .price{
-    margin-top: 350px;
+    margin-top: 500px;
     align-items: center;
-    color: gold;
+    color: green;
     margin-left: 100px;
 
 }
@@ -61,7 +61,7 @@ button {
     height: 30px;
     border: none;
     border-radius: 10px;
-    background-color: gold;
+    background-color: green;
     color: white;
     font-size: 20px;
 }
